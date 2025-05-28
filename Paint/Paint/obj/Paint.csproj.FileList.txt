@@ -1,0 +1,10 @@
+bin\Debug\Paint.exe
+bin\Debug\Paint.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Paint.Properties.Resources.resources
+obj\Debug\Paint.csproj.GenerateResource.Cache
+obj\Debug\Paint.exe
+obj\Debug\Paint.pdb
+obj\Debug\Paint.Paint.resources
+obj\Debug\Paint.AddNewImage.resources
+obj\Debug\Paint.NewImage.resources

@@ -1,0 +1,38 @@
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.exe
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.pdb
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\bin\Debug\Paint.exe
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\bin\Debug\Paint.pdb
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\ResolveAssemblyReference.cache
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.Add_string.resources
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.Main.resources
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.exe
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.pdb
+F:\paint-prozhe-[www.prozhe.com]\Paint\bin\Debug\Paint.exe
+F:\paint-prozhe-[www.prozhe.com]\Paint\bin\Debug\Paint.pdb
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Add_string.resources
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Main.resources
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\bin\Debug\Paint.exe.config
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.exe
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.pdb
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\bin\Debug\Paint.exe
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\bin\Debug\Paint.pdb
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Add_string.resources
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Main.resources
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Milad Allahgholi\Desktop\paint-prozhe-[www.prozhe.com]\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+E:\c#\paint-prozhe\Paint\bin\Debug\Paint.exe.config
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.exe
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.pdb
+E:\c#\paint-prozhe\Paint\bin\Debug\Paint.exe
+E:\c#\paint-prozhe\Paint\bin\Debug\Paint.pdb
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.Add_string.resources
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.Main.resources
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\c#\paint-prozhe\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
